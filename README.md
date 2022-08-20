@@ -4,6 +4,7 @@
 - 📫 How to reach me **turkansensoy01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+[Linkedln](https://www.linkedin.com/in/t%C3%BCrkan-%C5%9Fensoy-2b33b619b/?originalSubdomain=tr)
 <p align="left">
 </p>
 
