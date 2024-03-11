@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Türkan Şensoy</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Software Developer</h3>
 
 - 📫 How to reach me **turkansensoy01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-Linkedln: https://www.linkedin.com/in/t%C3%BCrkan-%C5%9Fensoy-2b33b619b/?originalSubdomain=tr
+Linkedln:https://www.linkedin.com/in/turkanSensoy/
 <p align="left">
 Medium: https://medium.com/@turkansensoy01
 </p>
